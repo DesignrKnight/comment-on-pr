@@ -49,4 +49,4 @@ if check_duplicate_msg == "true"
 end
 
 github.add_comment(repo, pr_number, message)
-npm install -g bundle-phobia-cli && bundle-phobia lodash react
+ls -la
