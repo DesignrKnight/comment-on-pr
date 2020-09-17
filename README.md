@@ -1,4 +1,4 @@
-# Comment on PR via GitHub Action
+# Comment on PR via GitHub Actions
 
 A GitHub action to comment on the relevant open PR when a commit is pushed.
 
